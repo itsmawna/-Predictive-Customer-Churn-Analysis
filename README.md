@@ -26,7 +26,7 @@ This project applies **machine learning** and **data visualization** techniques 
 ## Dataset
 - ~6,418 customer records  
 ![Customer Churn Analysis Database Schema](images/Customer%20Churn%20Analysis%20Database%20Schema.jpg)
-*Figure 1: Database Schema - Shows the relationships*
+*Database Schema - Shows the relationships*
 - Key features include:  
   - Demographics (age, gender, tenure)  
   - Services (internet type, phone, streaming, support, etc.)  
@@ -63,13 +63,11 @@ We tested multiple models to predict churn:
 ## Dashboard (Power BI)
  ### Churn Analysis Dashboard
 ![Churn Analysis Dashboard](images/Churn%20analysis%20dashboard.jpg)
-
-*Figure 2: Comprehensive churn analysis dashboard*
+*Comprehensive churn analysis dashboard*
 
  ### Churn Prediction Dashboard
 ![Churn Prediction Dashboard](images/Churn%20prediction%20dashboard.jpg)
-
-*Figure 3: Predictive analytics dashboard displaying churn risk scores and customer predictions*
+*Predictive analytics dashboard displaying churn risk scores and customer predictions*
 ---
 ## Feedback
 If you have any recommendations, questions, or would like to discuss this project further, please feel free to reach out!
