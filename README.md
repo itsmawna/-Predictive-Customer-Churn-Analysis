@@ -61,13 +61,12 @@ We tested multiple models to predict churn:
 ---
 
 ## Dashboard (Power BI)
- ### Churn Analysis Dashboard
-![Churn Analysis Dashboard](images/Churn%20analysis%20dashboard.jpg)
-*Comprehensive churn analysis dashboard*
+### Churn Analysis Dashboard
+<img src="images/Churn%20analysis%20dashboard.jpg" alt="Churn Analysis Dashboard" width="600"/>
 
- ### Churn Prediction Dashboard
-![Churn Prediction Dashboard](images/Churn%20prediction%20dashboard.jpg)
-*Predictive analytics dashboard displaying churn risk scores and customer predictions*
+### Churn Prediction Dashboard
+<img src="images/Churn%20prediction%20dashboard.jpg" alt="Churn Prediction Dashboard" width="600"/>
+
 ---
 ## Feedback
 If you have any recommendations, questions, or would like to discuss this project further, please feel free to reach out!
