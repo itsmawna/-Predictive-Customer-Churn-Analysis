@@ -1,0 +1,5 @@
+internet_ID,Internet_Service,Internet_Type
+1,Yes,Cable
+3,Yes,Fiber Optic
+9,Yes,DSL
+21,No,None
