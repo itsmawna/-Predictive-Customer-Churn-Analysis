@@ -56,21 +56,22 @@ We tested multiple models to predict churn:
 | Gradient Boosting       | ~83%     | 0.78      | 0.62   | 0.69     |
 | **Random Forest (Best)**| **84.5%**| **0.80**  | **0.64**| **0.71** |
 
-**Random Forest** performed the best overall, offering a good trade-off between recall and precision:contentReference[oaicite:0]{index=0}.
+**Random Forest** performed the best overall, offering a good trade-off between recall and precision.
 
 ---
 
 ## Dashboard (Power BI)
  ### Churn Analysis Dashboard
 ![Churn Analysis Dashboard](images/Churn%20analysis%20dashboard.jpg)
+
 *Figure 2: Comprehensive churn analysis dashboard*
 
 ### Churn Prediction Dashboard
 ![Churn Prediction Dashboard](images/Churn%20prediction%20dashboard.jpg)
+
 *Figure 3: Predictive analytics dashboard displaying churn risk scores and customer predictions*
 ---
 ## Contact & Feedback
-
 If you have any recommendations, questions, or would like to discuss this project further, please feel free to reach out!
 
 
