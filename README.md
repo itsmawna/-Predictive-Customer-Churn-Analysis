@@ -66,12 +66,12 @@ We tested multiple models to predict churn:
 
 *Figure 2: Comprehensive churn analysis dashboard*
 
-### Churn Prediction Dashboard
+ ### Churn Prediction Dashboard
 ![Churn Prediction Dashboard](images/Churn%20prediction%20dashboard.jpg)
 
 *Figure 3: Predictive analytics dashboard displaying churn risk scores and customer predictions*
 ---
-## Contact & Feedback
+## Feedback
 If you have any recommendations, questions, or would like to discuss this project further, please feel free to reach out!
 
 
